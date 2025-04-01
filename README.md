@@ -31,9 +31,10 @@
 
  <h2 align="center">🤝 Conecte-se comigo</h2>
  <p align="center">
-  <a href="[https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/fellipe-s-ab22b1255/)">
+<a href="https://www.linkedin.com/in/fellipe-s-ab22b1255/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+</a>
+  
   <a href="https://fhtech.vercel.app">
    <img src="https://img.shields.io/badge/Website-00A859?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
