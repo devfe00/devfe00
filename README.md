@@ -1,4 +1,4 @@
-<h1 align="center">FlyHigh Mode: ON ⚙️</h1>
+<h1 align="center">👋 Projeto em Ação</h1>
 
 <p align="center">
   Desenvolvedor full-stack criando sistemas que voam baixo, mas entregam alto. 
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Criador da <a href="https://peregrinosout.com" target="_blank"><strong>Peregrinos Outdoor</strong></a> e da <strong>FlyHigh.Tech</strong>. 
+  Criador da <a href="https://peregrinosout.com" target="_blank"><strong>Peregrinos Outdoor</strong></a> e vários projetos digitais inovadores.
   Curto transformar ideias em produtos reais usando <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>React</strong>, <strong>Node.js</strong> e <strong>Swift</strong>.
 </p>
 
@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Projetos Reais, Não Só Pra Portfólio</h2>
 
 <ul align="center">
-  <li><a href="https://github.com/devfe00/FH-Tech-Services-"><strong>FH-Tech-Services</strong></a> – Soluções digitais que entregam resultado.</li>
+  <li><a href="https://github.com/devfe00/FH-Tech-Services-"><strong>Projeto em Ação</strong></a> – Soluções digitais que entregam resultado.</li>
   <li><a href="https://github.com/devfe00/portf-lio.web"><strong>Portfólio Web</strong></a> – Simples, limpo e direto ao ponto.</li>
   <li><a href="https://github.com/devfe00/app-react-native-tarefas"><strong>App Tarefas</strong></a> – Gerenciamento de tarefas com foco em UX.</li>
 </ul>
@@ -52,4 +52,8 @@
   <a href="https://fhtech.vercel.app">
     <img src="https://img.shields.io/badge/Site Oficial-24292E?style=for-the-badge&logo=chrome&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
