@@ -1,6 +1,10 @@
 <h1 align="center">👋 Projeto em Ação</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</p>
+
+<p align="center">
   Desenvolvedor full-stack criando sistemas que voam baixo, mas entregam alto. 
   Sem enrolação, só código que resolve.
 </p>
@@ -52,8 +56,4 @@
   <a href="https://fhtech.vercel.app">
     <img src="https://img.shields.io/badge/Site Oficial-24292E?style=for-the-badge&logo=chrome&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
