@@ -73,17 +73,21 @@
 </div>
 
 <div align="center">
-  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=devfe00&theme=react&hide_border=true" alt="Sequência de contribuições" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfe00&theme=react" alt="Resumo de contribuições" />
 </div>
 
 ## 🔥 Projetos Recentes
 
 <p align="center">
   🚀 <a href="https://github.com/devfe00/FocusQuests"><strong>FocusQuests</strong></a> – App de tarefas com gamificação.<br>
-  🎯 <a href="https://github.com/devfe00/FH-Tech-Services-"><strong>FH Tech Services</strong></a> – Soluções digitais inovadoras.<br>
+  💸 <a href="https://github.com/devfe00/pay.docker"><strong>Pay Docker</strong></a> – Sistema de Pagamentos.<br>
   ✅ <a href="https://github.com/devfe00/itau-transactions"><strong>Itau Transactions</strong></a> – API de transações e estatísticas.<br>
-  🔒 <a href="https://github.com/devfe00/legal.ai"><strong>Legal.AI</strong></a> – Sistema de matchmaking.<br>
+  🔒 <a href="https://github.com/devfe00/IA-project"><strong>AI-projetc</strong></a> – Sistema de matchmaking.<br>
   🎮 <a href="https://github.com/devfe00/game.cadastro"><strong>Game Cadastro</strong></a> – Sistema de cadastro de jogadores.
+  📆 <a href="https://github.com/devfe00/system.calendar"><strong>System Calendar</strong></a> – Sistema de agendamento.
+  🕹️ <a href="https://github.com/devfe00/game.tech"><strong>Game Tech</strong></a> – Jogo de hacking.
+  🏞️ <a href="https://github.com/devfe00/peregrinos-quiz"><strong>Game Tech</strong></a> – Quiz p/ Peregrinos.
+  ⛰️ <a href="https://peregrinosout.com"><strong>Peregrinos Outdoor</strong></a> - Ecommerce - Peregrinos
 </p>
 
 ## 🤝 Network
