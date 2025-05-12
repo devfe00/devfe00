@@ -83,11 +83,11 @@
   💸 <a href="https://github.com/devfe00/pay.docker"><strong>Pay Docker</strong></a> – Sistema de Pagamentos.<br>
   ✅ <a href="https://github.com/devfe00/itau-transactions"><strong>Itau Transactions</strong></a> – API de transações e estatísticas.<br>
   🔒 <a href="https://github.com/devfe00/IA-project"><strong>AI-projetc</strong></a> – Sistema de matchmaking.<br>
-  🎮 <a href="https://github.com/devfe00/game.cadastro"><strong>Game Cadastro</strong></a> – Sistema de cadastro de jogadores.
-  📆 <a href="https://github.com/devfe00/system.calendar"><strong>System Calendar</strong></a> – Sistema de agendamento.
-  🕹️ <a href="https://github.com/devfe00/game.tech"><strong>Game Tech</strong></a> – Jogo de hacking.
-  🏞️ <a href="https://github.com/devfe00/peregrinos-quiz"><strong>Game Tech</strong></a> – Quiz p/ Peregrinos.
-  ⛰️ <a href="https://peregrinosout.com"><strong>Peregrinos Outdoor</strong></a> - Ecommerce - Peregrinos
+  🎮 <a href="https://github.com/devfe00/game.cadastro"><strong>Game Cadastro</strong></a> – Sistema de cadastro de jogadores.<br>
+  📆 <a href="https://github.com/devfe00/system.calendar"><strong>System Calendar</strong></a> – Sistema de agendamento.<br>
+  🕹️ <a href="https://github.com/devfe00/game.tech"><strong>Game Tech</strong></a> – Jogo de hacking.<br>
+  🏞️ <a href="https://github.com/devfe00/peregrinos-quiz"><strong>Game Tech</strong></a> – Quiz p/ Peregrinos.<br>
+  ⛰️ <a href="https://peregrinosout.com"><strong>Peregrinos Outdoor</strong></a> - Ecommerce - Peregrinos.
 </p>
 
 ## 🤝 Network
