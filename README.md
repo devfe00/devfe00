@@ -62,11 +62,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfe00&show_icons=true&count_private=true&theme=react&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfe00&layout=compact&langs_count=8&theme=react&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfe00&layout=compact&langs_count=8&theme=react&hide_border=true&hide=html,css" />
 </div>
 
 <div align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfe00&theme=react" alt="Contribution Summary" />
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=devfe00&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## Featured Projects
