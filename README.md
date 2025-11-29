@@ -60,11 +60,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devfe00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfe00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=devfe00&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
