@@ -53,7 +53,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
     <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
   </p>
 </div>
@@ -61,8 +60,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devfe00&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfe00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devfe00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfe00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
