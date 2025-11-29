@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Fellipe</h1>
+<h1 align="center">Hello, I'm Fellipe</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
@@ -11,28 +11,24 @@
   
 </div>
 
-<p align="center">
-  Desenvolvedor focado em criar soluções específicas e experiências de qualidade, construindo produtos digitais inovadores.
-</p>
-
 <div align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=devfe00&theme=react-dark&hide_border=true" alt="Gráfico de atividade" />
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=devfe00&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 💻 Tech Stack
 
 <div align="center">
   
-  ### Linguagens de Programação
+  ### Programming Languages
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   </p>
   
-  ### Frameworks & Bibliotecas
+  ### Frameworks & Libraries
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -46,7 +42,7 @@
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   </p>
   
-  ### Banco de Dados
+  ### Databases
   <p>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -54,7 +50,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   </p>
   
-  ### Ferramentas & Plataformas
+  ### Tools & Platforms
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -73,24 +69,73 @@
 </div>
 
 <div align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfe00&theme=react" alt="Resumo de contribuições" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfe00&theme=react" alt="Contribution Summary" />
 </div>
 
-## 🔥 Projetos Recentes
+## 🚀 Featured Projects
 
-<p align="center">
-  🚀 <a href="https://github.com/devfe00/FocusQuests"><strong>FocusQuests</strong></a> – App de tarefas com gamificação.<br>
-  💸 <a href="https://github.com/devfe00/pay.docker"><strong>Pay Docker</strong></a> – Sistema de Pagamentos.<br>
-  ✅ <a href="https://github.com/devfe00/itau-transactions"><strong>Itau Transactions</strong></a> – API de transações e estatísticas.<br>
-  🔒 <a href="https://github.com/devfe00/IA-project"><strong>AI-projetc</strong></a> – Sistema de matchmaking.<br>
-  🎮 <a href="https://github.com/devfe00/game.cadastro"><strong>Game Cadastro</strong></a> – Sistema de cadastro de jogadores.<br>
-  📆 <a href="https://github.com/devfe00/system.calendar"><strong>System Calendar</strong></a> – Sistema de agendamento.<br>
-  🕹️ <a href="https://github.com/devfe00/game.tech"><strong>Game Tech</strong></a> – Jogo de hacking.<br>
-  🏞️ <a href="https://github.com/devfe00/peregrinos-quiz"><strong>Game Tech</strong></a> – Quiz p/ Peregrinos.<br>
-  ⛰️ <a href="https://peregrinosout.com"><strong>Peregrinos Outdoor</strong></a> - Ecommerce - Peregrinos.
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/devfe00/marketplace-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=marketplace-dashboard&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <sub><b>Marketplace Dashboard</b></sub>
+      <br />
+      <sub>Full-featured marketplace admin panel</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/devfe00/api-marketplace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=api-marketplace&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <sub><b>API Marketplace</b></sub>
+      <br />
+      <sub>RESTful API for marketplace platform</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/devfe00/itau-transactions">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=itau-transactions&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <sub><b>Itau Transactions</b></sub>
+      <br />
+      <sub>Transaction API with statistics</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/devfe00/pay.docker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=pay.docker&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <sub><b>Pay Docker</b></sub>
+      <br />
+      <sub>Dockerized payment system</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/devfe00/FocusQuests">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=FocusQuests&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <sub><b>FocusQuests</b></sub>
+      <br />
+      <sub>Gamified task management app</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/devfe00/game.tech">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=game.tech&theme=react&hide_border=true" />
+      </a>
+      <br />
+      <sub><b>Game Tech</b></sub>
+      <br />
+      <sub>Interactive hacking game</sub>
+    </td>
+  </tr>
+</table>
 
-## 🤝 Network
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fellipe-dev00/">
@@ -102,4 +147,8 @@
   <a href="https://github.com/devfe00">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devfe00&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
