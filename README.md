@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=devfe00&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ## Tech Stack
