@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  Full Stack Developer 🚀
+  Full Stack Developer
   
   JavaScript | React.js | Node.js | Express.js | TypeScript | Swift | Python | Java | Docker | MongoDB
   
@@ -15,7 +15,7 @@
   <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=devfe00&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   
@@ -61,7 +61,7 @@
   </p>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfe00&show_icons=true&count_private=true&theme=react&hide_border=true" />
@@ -72,70 +72,22 @@
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devfe00&theme=react" alt="Contribution Summary" />
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/devfe00/marketplace-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=marketplace-dashboard&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <sub><b>Marketplace Dashboard</b></sub>
-      <br />
-      <sub>Full-featured marketplace admin panel</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/devfe00/api-marketplace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=api-marketplace&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <sub><b>API Marketplace</b></sub>
-      <br />
-      <sub>RESTful API for marketplace platform</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/devfe00/itau-transactions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=itau-transactions&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <sub><b>Itau Transactions</b></sub>
-      <br />
-      <sub>Transaction API with statistics</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/devfe00/pay.docker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=pay.docker&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <sub><b>Pay Docker</b></sub>
-      <br />
-      <sub>Dockerized payment system</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/devfe00/FocusQuests">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=FocusQuests&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <sub><b>FocusQuests</b></sub>
-      <br />
-      <sub>Gamified task management app</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/devfe00/game.tech">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfe00&repo=game.tech&theme=react&hide_border=true" />
-      </a>
-      <br />
-      <sub><b>Game Tech</b></sub>
-      <br />
-      <sub>Interactive hacking game</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 🤝 Connect With Me
+| Project | Description |
+|---------|-------------|
+| **[Marketplace Dashboard](https://github.com/devfe00/marketplace-dashboard)** | Full-featured marketplace admin panel |
+| **[API Marketplace](https://github.com/devfe00/api-marketplace)** | RESTful API for marketplace platform |
+| **[Itau Transactions](https://github.com/devfe00/itau-transactions)** | Transaction API with statistics |
+| **[Pay Docker](https://github.com/devfe00/pay.docker)** | Dockerized payment system |
+| **[FocusQuests](https://github.com/devfe00/FocusQuests)** | Gamified task management app |
+| **[Game Tech](https://github.com/devfe00/game.tech)** | Interactive hacking game |
+
+</div>
+
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fellipe-dev00/">
