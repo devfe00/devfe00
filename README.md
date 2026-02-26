@@ -7,7 +7,7 @@
   
   Full Stack Developer
   
-  JavaScript | React.js | Node.js | Express.js | TypeScript | Swift | Python | Java | Docker | MongoDB
+  JavaScript | React.js | Node.js | TypeScript | Swift | Python | Docker | MongoDB
   
 </div>
 
